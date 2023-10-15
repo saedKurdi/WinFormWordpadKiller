@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\bin\Debug\net6.0-windows\WordPadKiller.exe
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\bin\Debug\net6.0-windows\WordPadKiller.deps.json
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\bin\Debug\net6.0-windows\WordPadKiller.runtimeconfig.json
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\bin\Debug\net6.0-windows\WordPadKiller.dll
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\bin\Debug\net6.0-windows\WordPadKiller.pdb
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.Window1.resources
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.AssemblyInfo.cs
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.dll
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\refint\WordPadKiller.dll
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.pdb
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\WordPadKiller.genruntimeconfig.cache
+C:\Users\Asus\source\repos\WordPadKiller\WordPadKiller\obj\Debug\net6.0-windows\ref\WordPadKiller.dll
